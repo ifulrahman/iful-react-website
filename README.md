@@ -11,6 +11,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Brief Stages
+- Download ZIP File
+- Open with VSCode / Code Editor
+- Open Terminal Project in Code Editor
+- #### `npm i`
+- #### `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
